@@ -1,0 +1,15 @@
+{
+  "cred": 5,
+  "spent": 5,
+  "box": [{
+    "Rarity": "R",
+    "Description": "LMG MOUNTED AND LOADED",
+    "DEF": 1300,
+    "name": "Tachanka",
+    "ATK": 800,
+    "HP": 1900,
+    "Level": 1,
+    "ID": 17
+  }],
+  "userID": 123456
+}
